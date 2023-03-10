@@ -1,9 +1,9 @@
 {
-  "name": "chatgpt-web",
+  "name": "Harmony Ai",
   "version": "2.10.3",
   "private": false,
-  "description": "ChatGPT Web",
-  "author": "ChenZhaoYu <chenzhaoyu1994@gmail.com>",
+  "description": "Harmony Ai",
+  "author": "Harmony Ai <ai@huawei.com>",
   "keywords": [
     "chatgpt-web",
     "chatgpt",
